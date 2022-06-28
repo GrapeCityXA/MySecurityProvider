@@ -1,0 +1,9 @@
+D:\GrapeCity\客户培训\捷禾与得\MySecurityProvider\MySecurityProvider\bin\Release\netstandard2.0\MySecurityProvider.deps.json
+D:\GrapeCity\客户培训\捷禾与得\MySecurityProvider\MySecurityProvider\bin\Release\netstandard2.0\MySecurityProvider.dll
+D:\GrapeCity\客户培训\捷禾与得\MySecurityProvider\MySecurityProvider\bin\Release\netstandard2.0\MySecurityProvider.pdb
+D:\GrapeCity\客户培训\捷禾与得\MySecurityProvider\MySecurityProvider\obj\Release\netstandard2.0\MySecurityProvider.csproj.AssemblyReference.cache
+D:\GrapeCity\客户培训\捷禾与得\MySecurityProvider\MySecurityProvider\obj\Release\netstandard2.0\MySecurityProvider.AssemblyInfoInputs.cache
+D:\GrapeCity\客户培训\捷禾与得\MySecurityProvider\MySecurityProvider\obj\Release\netstandard2.0\MySecurityProvider.AssemblyInfo.cs
+D:\GrapeCity\客户培训\捷禾与得\MySecurityProvider\MySecurityProvider\obj\Release\netstandard2.0\MySecurityProvider.csproj.CoreCompileInputs.cache
+D:\GrapeCity\客户培训\捷禾与得\MySecurityProvider\MySecurityProvider\obj\Release\netstandard2.0\MySecurityProvider.dll
+D:\GrapeCity\客户培训\捷禾与得\MySecurityProvider\MySecurityProvider\obj\Release\netstandard2.0\MySecurityProvider.pdb
